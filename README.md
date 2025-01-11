@@ -21,7 +21,7 @@ project-root/
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ankit-o07/BackendTask-Roxiler.git
     cd project-root
     ```
 
@@ -50,3 +50,4 @@ npm start
 The client will be available at `http://localhost:5173`, and the server will run at `http://localhost:5000` by default.
 
 ![alt text](<Screenshot 2025-01-11 161355.png>)
+![alt text](<Screenshot 2025-01-11 161531.png>)
